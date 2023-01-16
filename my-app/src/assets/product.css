@@ -1,0 +1,39 @@
+.prolar{
+    background: rgb(223, 213, 213);
+    padding: 20px;
+}
+
+
+
+.hello123 h5 a{
+ color: black;
+ text-decoration: none;
+
+
+}
+
+.photopro{
+    max-width: 68px;
+    margin-right: 10px;
+}
+
+.box1{
+    width: 20rem;
+    height: 20rem;
+    background-color: blueviolet;
+    margin-top: 50px;
+    opacity: 0;
+}
+.box2{
+    width: 20rem;
+    height: 20rem;
+    background-color: blueviolet;
+    margin-top: 50px;
+}
+
+.boxses{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+ 
+}
